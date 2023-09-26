@@ -1,6 +1,6 @@
 # 河大图书馆活动速通
 ## 使用方法
-1. 访问http://hndxrgjy6.zhixinst.com/Web/User登录账号
+1. 访问http://hndxrgjy6.zhixinst.com/Web/User 登录账号
 2. 浏览器开发者工具获取用户Cookie，填入main.py的api.UserCookie
 3. 设置通关想要的时长
 4. 在浏览器把文档都看一遍，不然会报错，只有看过了文档才能答题
